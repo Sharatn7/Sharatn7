@@ -4,6 +4,10 @@ I'm Sharat Neppalli, an aspiring software developer fueled by resilience. My pas
 
 As an enthusiastic learner in software development, I'm always expanding my skill set to stay ahead of industry trends. Thriving in collaborative environments, I contribute to team success and bring creative ideas to life. Let's connect and create amazing things together!
 
+<!--[![Portfolio](https://img.shields.io/badge/-Portfolio-blue?style=for-the-badge&logo=portfolio&logoColor=white)](https://)-->
+<!--[![Download Resume](https://img.shields.io/badge/-Download%20Resume-green?style=for-the-badge&logo=acrobat&logoColor=white)](https://)-->
+
+
 ## 🛠️ Technical Skills
 
 | Category             | Badges |
